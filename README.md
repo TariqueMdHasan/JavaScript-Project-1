@@ -20,11 +20,7 @@ This is a simple, interactive **Notes App** built using **HTML**, **CSS**, and *
 - CSS3
 - JavaScript (ES6)
 
----
 
-## 📸 Preview
-
-> *(Include a screenshot if you’d like)*
 
 ---
 
