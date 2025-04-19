@@ -36,3 +36,12 @@ NOTE/
 ├── style.css      # CSS styling
 └── README.md      # Project details
 ```
+
+
+---
+
+## 📦 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/TariqueMdHasan/JavaScript-Project-1.git
