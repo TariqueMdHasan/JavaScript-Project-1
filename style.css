@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+.addSection{
+    width: 100vw;
+    height: 12vh;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+.addSection h1{
+    margin: 0;
+}
+.addSection button{
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.divContainer{
+    width: 100vw;
+    height: auto;
+    padding: 1rem;
+    /* background-color: ; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+
+}
+.card{
+    width: 20rem;
+    height: auto;
+    /* background: red; */
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    gap: 5px;
+}
+.text{
+    width: 95%;
+    min-height: 5rem;
+    /* height: auto; */
+    /* margin: 5px; */
+    border: none;
+    outline: none;
+}
+
