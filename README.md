@@ -28,10 +28,11 @@ This is a simple, interactive **Notes App** built using **HTML**, **CSS**, and *
 ---
 
 ## 📂 Folder Structure
+```
 NOTE/
 │
 ├── index.html     # Main HTML file (structure)
 ├── script.js      # JavaScript (functionality)
 ├── style.css      # CSS styling
 └── README.md      # Project details
-
+```
