@@ -20,9 +20,18 @@ This is a simple, interactive **Notes App** built using **HTML**, **CSS**, and *
 - CSS3
 - JavaScript (ES6)
 
+---
 
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/60cc7003-31ec-445e-a5ed-238b3af26ace)
 
 ---
 
 ## 📂 Folder Structure
+NOTE/
+│
+├── index.html     # Main HTML file (structure)
+├── script.js      # JavaScript (functionality)
+├── style.css      # CSS styling
+└── README.md      # Project details
 
